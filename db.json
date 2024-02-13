@@ -1,46 +1,48 @@
 {
-  "groups": [
-    {
-      "id": "one",
-      "groupName": "Group1",
-      "feeds": [
-        {
-          "feedId": "Group1one",
-          "title": "Group1 One",
-          "description": "one of Group1"
-        },
-        {
-          "feedId": "Group1two",
-          "title": "Group1 Two",
-          "description": "Two of Group1"
-        },
-        {
-          "feedId": "Group1three",
-          "title": "Group1 three",
-          "description": "three of Group1"
-        }
-      ]
-    },
-    {
-      "id": "two",
-      "groupName": "Group1",
-      "feeds": [
-        {
-          "feedId": "Group2one",
-          "title": "Group2 One",
-          "description": "one of Group2"
-        },
-        {
-          "feedId": "Group2two",
-          "title": "Group2 Two",
-          "description": "Two of Group2"
-        },
-        {
-          "feedId": "Group2three",
-          "title": "Group2 three",
-          "description": "three of Group2"
-        }
-      ]
-    }
-  ]
+  "feed" : {
+    "groups": [
+      {
+        "id": "one",
+        "groupName": "Group1",
+        "feeds": [
+          {
+            "feedId": "Group1one",
+            "title": "Group1 One",
+            "description": "one of Group1"
+          },
+          {
+            "feedId": "Group1two",
+            "title": "Group1 Two",
+            "description": "Two of Group1"
+          },
+          {
+            "feedId": "Group1three",
+            "title": "Group1 three",
+            "description": "three of Group1"
+          }
+        ]
+      },
+      {
+        "id": "two",
+        "groupName": "Group1",
+        "feeds": [
+          {
+            "feedId": "Group2one",
+            "title": "Group2 One",
+            "description": "one of Group2"
+          },
+          {
+            "feedId": "Group2two",
+            "title": "Group2 Two",
+            "description": "Two of Group2"
+          },
+          {
+            "feedId": "Group2three",
+            "title": "Group2 three",
+            "description": "three of Group2"
+          }
+        ]
+      }
+    ]
+  }
 }
